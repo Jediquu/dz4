@@ -1,0 +1,45 @@
+* {
+    font-family: Tahoma;
+    font-size: 14px;
+    padding: 10px;
+    margin: 0;
+}
+
+
+/*body {
+	font-family: Tahoma;
+	font-size: 14px;
+	padding: 10px;
+	margin: 0;
+
+}*/
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 15px 0;
+}
+
+p {
+    padding: 10px;
+}
+
+#vowels {
+    background-color: #FFDB83;
+}
+
+#result {
+    background-color: #EBF9DF;
+}
+
+button {
+    padding: 3px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#vowels b {
+    font-size: 600;
+    background-color: #FC6F71;
+    padding: 0 5px;
+}
